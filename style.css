@@ -1,6 +1,6 @@
 body {
   font-family: sans-serif;
-  background: pink;
+  background: linear-gradient(to bottom right, white, pink, pink, yellow);
   color: #333;
   padding: 2rem;
   text-align: center;
