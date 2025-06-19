@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
-  background: #f5f5f5;
+  background: linear-gradient(to bottom right, #f5f5f5, pink, yellow);
   color: #333;
   padding: 2rem;
+  text-align: center;
 }
